@@ -1,0 +1,93 @@
+/* 
+    Created on : 2015-09-21, 18:00:45
+    Author     : Łukasz (Automatyk)
+*/
+
+body
+{
+    background-color: #6f6f6f;
+}
+
+/*
+    menu nawigacyjne
+*/
+.menu
+{
+    height: 120px;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.nav1
+{
+    padding: 30px 10px;
+    height: 60px;
+    width: 40px;
+    float: left;
+}
+
+.nav2
+{
+    padding: 30px 10px;
+    height: 60px;
+    width: 20px;
+    float: left;
+}
+
+.small_image
+{
+    padding: 5px;
+    height: 110px;
+    width: 110px;
+    float: left;
+}
+
+.small_image:hover
+{
+	background-color: orange;
+}
+
+.small_image img
+{
+    height: 110px;
+    width: 110px;
+}
+
+.info_header
+{
+    width: 750px;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;   
+}
+
+.img_info
+{
+    padding: 10px;
+    width: 230px;
+    font-size: 16px;
+    font-weight: bold;
+    float: left;   
+}
+
+.big_image
+{
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footer
+{
+    width: 300px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footer p
+{
+    text-align: center;
+}
